@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![screencapture-the-wild-oasis-website-template-vercel-app-2024-06-19-20_32_38](https://github.com/akramAdjab/The-Wild-Oasis-Website/assets/111662485/a92fc242-296e-43ae-b00d-fba0d4b534d2)
 
-## Getting Started
+# The Wild Oasis // Hotel Reservation App
 
-First, run the development server:
+Introducing Wild Oasis Reservations: A modern, user-friendly hotel booking website that enhances guest experience with seamless online reservations. Guests can explore detailed information about our cabins, make reservations, and manage their bookings. The platform also supports Google account login for easy access to personal information and booking management.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Crafted with cutting-edge technologies including Next.js 14, React Server Components (RSC), and modern React hooks like useFormStatus and useOptimistic. Our platform leverages Date-fns for date management, Supabase for a robust database solution, and the Context API for efficient global state management. We utilize revalidatePath for managing Next.js caches, and Auth.js for secure authentication.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### Key Features:
+<ul>
+<li>About Us: Comprehensive information about our hotel and services.</li>
+<li>Cabin Exploration: Detailed views of our cabin offerings.</li>
+<li>Online Reservations: Smooth and intuitive booking process.</li>
+<li>Google Authentication: Secure login with Google accounts.</li>
+<li>Personal Dashboard: Manage and update personal information and reservations.</li>
+</ul>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+#### Technologies:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<li>Next.js 14: For a modern, scalable web application framework.</li>
+<li>React Hooks: useFormStatus, useOptimistic react modern hooks.</li>
+<li>Date-fns: For robust date handling.</li>
+<li>Supabase: For database management.</li>
+<li>Context API: For global state management.</li>
+<li>Auth.js: For authentication.</li>
+<li>Next.js Caching: Managed with revalidatePath.</li>
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Explore our codebase and the [website demo](https://the-wild-oasis-website-template.vercel.app/) to see how these technologies come together to create a seamless hotel booking experience for our guests.
