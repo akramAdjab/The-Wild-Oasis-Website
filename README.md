@@ -16,7 +16,7 @@ Crafted with cutting-edge technologies including Next.js 14, React Server Compon
 </ul>
 
 #### Technologies:
-
+<ul>
 <li>Next.js 14: For a modern, scalable web application framework.</li>
 <li>React Hooks: useFormStatus, useOptimistic react modern hooks.</li>
 <li>Date-fns: For robust date handling.</li>
@@ -24,5 +24,6 @@ Crafted with cutting-edge technologies including Next.js 14, React Server Compon
 <li>Context API: For global state management.</li>
 <li>Auth.js: For authentication.</li>
 <li>Next.js Caching: Managed with revalidatePath.</li>
+</ul>
 
 Explore our codebase and the [website demo](https://the-wild-oasis-website-template.vercel.app/) to see how these technologies come together to create a seamless hotel booking experience for our guests.
