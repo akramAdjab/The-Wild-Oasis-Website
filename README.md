@@ -27,3 +27,7 @@ Crafted with cutting-edge technologies including Next.js 14, React Server Compon
 </ul>
 
 Explore our codebase and the [website demo](https://the-wild-oasis-website-template.vercel.app/) to see how these technologies come together to create a seamless hotel booking experience for our guests.
+
+![screencapture-the-wild-oasis-website-template-vercel-app-about-2024-06-19-20_36_08](https://github.com/akramAdjab/The-Wild-Oasis-Website/assets/111662485/183dedcd-7a9f-4f86-926c-9d1ca4bb6867)
+![screencapture-the-wild-oasis-website-template-vercel-app-cabins-2024-06-19-20_35_50](https://github.com/akramAdjab/The-Wild-Oasis-Website/assets/111662485/9c131ecd-bc6f-49a1-bd56-1e2e59fc3056)
+![screencapture-the-wild-oasis-website-template-vercel-app-cabins-71-2024-06-19-20_37_12](https://github.com/akramAdjab/The-Wild-Oasis-Website/assets/111662485/6ca0f7c7-4ab9-42bd-96ca-93edce0349fd)
